@@ -1,4 +1,4 @@
-# Privacy-Safe Cross-Organization Risk & RCA
+# Privacy-Safe Cross-Organization Insights
 
 **AI for Good | Snowflake Hackathon**
 
@@ -6,7 +6,7 @@
 
 Organizations such as banks and insurers often need to collaborate to understand **population-level risk patterns** (e.g., financial stress, claim burden, underserved segments). However, **privacy regulations, trust boundaries, and governance constraints** prevent them from sharing raw customer data.
 
-This project demonstrates a **Snowflake-native, privacy-safe data application** that enables **cross-organization risk analysis and root cause analysis (RCA)** using **only aggregated, de-identified data**.
+This project demonstrates a **Snowflake-native, privacy-safe data application** that enables **cross-organization risk analysis and root cause analysis** using **only aggregated, de-identified data**.
 All analytics and reasoning are enforced **inside Snowflake using governed SQL**, while the user interface simply renders approved outputs.
 
 ---
